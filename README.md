@@ -1,5 +1,8 @@
 ### Assignment
 
+I solved this project as part of the evaluation for the data Analysis With Python Certificate
+10/09/2023
+
 In this project, you will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.
 
 #### Data description
